@@ -1,2 +1,2 @@
 # Classification-Data-Challenge
-Use machine learning models to suggest best strategy to increase sales of productX across the US - April 2020
+Use machine learning models to suggest best strategy for increasing sales of productX across the US - April 2020
