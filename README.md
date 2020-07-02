@@ -2,7 +2,7 @@
 Company Y is a B2B insurance company offereing employee benefits products to employers across the US
 Company Y would like to use machine learning models to suggest best strategy for increasing sales of productX across the US
 # Scope
-* Three type of data provided. These are employers, geographical, and sales data
+* Three type of data provided. These are employers characteristics, geographical, and sales data
 * Augmented data provided by blending with US Census Bureau zipcode level data on County Business Patterns
 # Vision
 * Predict sale success ("sold" or "lost") of ProductX based on features provided
